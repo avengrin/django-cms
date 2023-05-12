@@ -1,0 +1,19 @@
+django==3.2
+django-cms
+django-filer
+djangocms-text-ckeditor
+djangocms-link
+djangocms-file
+djangocms-picture
+djangocms-video
+djangocms-googlemap
+djangocms-snippet
+djangocms-style
+django-environ
+django-recaptcha
+
+# Database
+psycopg2 # PostgreSQL
+# mysqlclient # MySQL
+
+
